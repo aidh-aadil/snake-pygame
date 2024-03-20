@@ -1,5 +1,5 @@
 # Snake Pygame 🐍
-![Snake gameplay](https://cdn.discordapp.com/attachments/1191439831633498176/1197427952523149312/snake_gif.gif?ex=65bb3aaf&is=65a8c5af&hm=091b8b81ad707b015c3e9cf5cad87d70c063630fdb91e6fff0d33c3473149b84&)
+![Snake gameplay](https://i.imgur.com/5yrI0lr.gif)
 
 Move the snake around to gobble up food and watch it grow. 
 
